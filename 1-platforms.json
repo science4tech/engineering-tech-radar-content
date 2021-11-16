@@ -1,0 +1,6 @@
+[
+  { "quadrant": 1, "ring": 0, "moved":  1, "label": "Amazon ECS" },
+  { "quadrant": 1, "ring": 1, "moved":  1, "label": "Intercom" },
+  { "quadrant": 1, "ring": 3, "moved":  0, "label": "Phrase" },
+  { "quadrant": 1, "ring": 3, "moved":  0, "label": "Amazon Cognito" }
+]

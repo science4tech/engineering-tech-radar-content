@@ -1,0 +1,10 @@
+[
+  { "quadrant": 2, "ring": 0, "moved":  1, "label": "Domain-Driven Design" },
+  { "quadrant": 2, "ring": 0, "moved":  1, "label": "Event-Driven Architecture" },
+  { "quadrant": 2, "ring": 2, "moved":  1, "label": "Contract Testing" },
+  { "quadrant": 2, "ring": 3, "moved":  0, "label": "Acceptance Testing" },
+  { "quadrant": 2, "ring": 3, "moved":  0, "label": "Feature Flags" },
+  { "quadrant": 2, "ring": 3, "moved":  0, "label": "Trunk-Based Development" },
+  { "quadrant": 2, "ring": 3, "moved":  0, "label": "UI Tests" },
+  { "quadrant": 2, "ring": 3, "moved":  0, "label": "E2E Tests" }
+]
