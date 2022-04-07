@@ -1,7 +1,8 @@
 [
-  { "quadrant": 0, "ring": 1, "moved":  1, "label": "SwiftUI" },
-  { "quadrant": 0, "ring": 1, "moved":  1, "label": "Jetpack Compose" },
+  { "quadrant": 0, "ring": 1, "moved":  0, "label": "SwiftUI" },
+  { "quadrant": 0, "ring": 1, "moved":  0, "label": "Jetpack Compose" },
   { "quadrant": 0, "ring": 2, "moved":  0, "label": "S3 Select" },
+  { "quadrant": 0, "ring": 2, "moved":  1, "label": "Google Play Instant" },
   { "quadrant": 0, "ring": 3, "moved":  0, "label": "GraphQL" },
   { "quadrant": 0, "ring": 3, "moved":  0, "label": "MJML" }
 ]
